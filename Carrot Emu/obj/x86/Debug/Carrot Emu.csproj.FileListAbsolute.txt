@@ -1,0 +1,8 @@
+C:\Users\Maurice\AppData\Local\Temporary Projects\prjReborn iNoX\bin\Debug\prjReborn iNoX.exe
+C:\Users\Maurice\AppData\Local\Temporary Projects\prjReborn iNoX\bin\Debug\prjReborn iNoX.pdb
+C:\Users\Maurice\AppData\Local\Temporary Projects\prjReborn iNoX\obj\x86\Debug\prjReborn iNoX.exe
+C:\Users\Maurice\AppData\Local\Temporary Projects\prjReborn iNoX\obj\x86\Debug\prjReborn iNoX.pdb
+C:\Users\Maurice\documents\visual studio 2010\Projects\Carrot Emu\Carrot Emu\bin\Debug\Carrot Emu.exe
+C:\Users\Maurice\documents\visual studio 2010\Projects\Carrot Emu\Carrot Emu\bin\Debug\Carrot Emu.pdb
+C:\Users\Maurice\documents\visual studio 2010\Projects\Carrot Emu\Carrot Emu\obj\x86\Debug\Carrot Emu.exe
+C:\Users\Maurice\documents\visual studio 2010\Projects\Carrot Emu\Carrot Emu\obj\x86\Debug\Carrot Emu.pdb

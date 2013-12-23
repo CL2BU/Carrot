@@ -1,0 +1,19 @@
+﻿//*************************************//
+//**		    TODO List			 **//
+//**	     Carrot Emulator		 **//
+//**	  Remade in C# by iNoX		 **//
+//*************************************//
+
+<!= Original Credits go to G33k & BetterWay (iNoX) =!>
+
+Common TODO:
+- Logger improvement
+- Basics (Helpers for the logger, Helpers for Sync system)
+
+Network TODO:
+- Bytearray & bitconverter implementation for new crypto
+- Sync System (Functional with serveral Cloud services to be safe by VPS-Crashes, no backups needed)
+- Packet init's, packet list, interface to change/create quickly new users
+
+Main TODO:
+- Unknown

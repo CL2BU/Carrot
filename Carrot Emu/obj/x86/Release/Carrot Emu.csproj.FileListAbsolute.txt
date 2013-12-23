@@ -1,0 +1,4 @@
+C:\Users\Maurice\AppData\Local\Temporary Projects\prjReborn iNoX\bin\Release\prjReborn iNoX.exe
+C:\Users\Maurice\AppData\Local\Temporary Projects\prjReborn iNoX\bin\Release\prjReborn iNoX.pdb
+C:\Users\Maurice\AppData\Local\Temporary Projects\prjReborn iNoX\obj\x86\Release\prjReborn iNoX.exe
+C:\Users\Maurice\AppData\Local\Temporary Projects\prjReborn iNoX\obj\x86\Release\prjReborn iNoX.pdb
